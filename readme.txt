@@ -1,3 +1,2 @@
-fooo baaar
-
+fooo baaarbar foo
 for bar foo
