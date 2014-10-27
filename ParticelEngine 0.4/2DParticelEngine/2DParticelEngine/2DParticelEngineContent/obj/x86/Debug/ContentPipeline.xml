@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tex\Particle\Shapes\circle.png</Source>
+      <Name>Tex\Particle\Shapes\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Shapes\circle.xnb</Output>
+      <Time>2012-11-01T21:10:12.0673925+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Shapes\diamond.png</Source>
+      <Name>Tex\Particle\Shapes\diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Shapes\diamond.xnb</Output>
+      <Time>2012-11-01T21:10:12.0833934+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Shapes\star.png</Source>
+      <Name>Tex\Particle\Shapes\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Shapes\star.xnb</Output>
+      <Time>2012-11-01T21:10:12.0693926+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\blue.png</Source>
+      <Name>Tex\Particle\Colors\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\blue.xnb</Output>
+      <Time>2012-11-01T22:14:22.9336494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\green.png</Source>
+      <Name>Tex\Particle\Colors\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\green.xnb</Output>
+      <Time>2012-11-01T22:14:22.9496503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\red.png</Source>
+      <Name>Tex\Particle\Colors\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\red.xnb</Output>
+      <Time>2012-11-01T22:14:22.9466502+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Shapes\smallParticle.jpg</Source>
+      <Name>Tex\Particle\Shapes\smallParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Shapes\smallParticle.xnb</Output>
+      <Time>2012-11-01T22:35:35.3304264+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\gelbLinks.png</Source>
+      <Name>Tex\Gui\gelbLinks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\gelbLinks.xnb</Output>
+      <Time>2012-11-02T15:18:57.8064832+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\gelbRechts.png</Source>
+      <Name>Tex\Gui\gelbRechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\gelbRechts.xnb</Output>
+      <Time>2012-11-02T15:18:57.8064832+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\gruenLinks.png</Source>
+      <Name>Tex\Gui\gruenLinks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\gruenLinks.xnb</Output>
+      <Time>2012-11-10T23:54:01.1401689+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\gruenRechts.png</Source>
+      <Name>Tex\Gui\gruenRechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\gruenRechts.xnb</Output>
+      <Time>2012-11-10T23:54:01.1471693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\yellow.png</Source>
+      <Name>Tex\Particle\Colors\yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\yellow.xnb</Output>
+      <Time>2012-11-11T22:27:15.004278+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\bunt1.png</Source>
+      <Name>Tex\Particle\Colors\bunt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\bunt1.xnb</Output>
+      <Time>2012-11-11T22:28:34.9448504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\red1.png</Source>
+      <Name>Tex\Particle\Colors\red1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\red1.xnb</Output>
+      <Time>2012-11-11T22:50:00.0613548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Particle\Colors\yellow2.jpg</Source>
+      <Name>Tex\Particle\Colors\yellow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Particle\Colors\yellow2.xnb</Output>
+      <Time>2012-11-11T23:01:11.4737574+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\bOf.png</Source>
+      <Name>Tex\Gui\bOf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\bOf.xnb</Output>
+      <Time>2012-11-13T21:59:09.6963084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tex\Gui\bOn.png</Source>
+      <Name>Tex\Gui\bOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\Tex\Gui\bOn.xnb</Output>
+      <Time>2012-11-13T21:59:09.6807083+01:00</Time>
+    </Item>
+    <Item>
+      <Source>guiDebug.spritefont</Source>
+      <Name>guiDebug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\guiDebug.xnb</Output>
+      <Time>2012-11-19T22:58:44.8197539+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-02T13:12:47.5089278+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+C:\Users\Bami\Documents\Visual Studio 2010\Projects\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.1\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.3\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bami\Documents\Visual Studio 2010\Projects\ParticelEngine 0.4\2DParticelEngine\2DParticelEngine\2DParticelEngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
